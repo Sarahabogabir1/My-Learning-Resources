@@ -4,6 +4,7 @@ A compiled list of my favorite learning resources.
 
 ______________________________________________________________________________________________________________________________
 React
+
 (1) A good intro power point to read: http://blog.isquaredsoftware.com/presentations/2017-02-react-redux-intro/#/
 
 (2) React Cheat Sheet: https://egghead.io/react-redux-cheatsheets
@@ -11,6 +12,7 @@ React
 
 ______________________________________________________________________________________________________________________________
 Redux
+
 (1) Free Redux course by the cretor Dan Abramoc (free): https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?play=yes
 
 (2) Redux Cheat Sheet: https://egghead.io/react-redux-cheatsheets
