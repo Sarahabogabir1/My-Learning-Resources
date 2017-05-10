@@ -1,9 +1,9 @@
-# My-Learning-Resources
-A compiled list of my favorite learning resources.
+<h1> My-Learning-Resources </h1>
+<p>A compiled list of my favorite learning resources.</p>
 
 
 ______________________________________________________________________________________________________________________________
-React + Redux + Webpack & Babel 
+<h2>React + Redux + Webpack & Babel </h2>
 
 (1) Course is only $15 dollars: https://www.udemy.com/react-redux/  (status: Currently taking it)
     Current Overall Video tutorial (hands down the best one)
@@ -11,7 +11,9 @@ React + Redux + Webpack & Babel
 
 
 ______________________________________________________________________________________________________________________________
-React
+<h2>React</h2>
+
+<b> Video Tutorial </b>
 
 <b>Reads: </b>
 
@@ -23,7 +25,7 @@ React
 
 
 ______________________________________________________________________________________________________________________________
-Redux
+<h2>Redux</h2>
 
 (1) Free Redux course by the cretor Dan Abramoc (free): https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?play=yes  (Status: On video 8)
 
