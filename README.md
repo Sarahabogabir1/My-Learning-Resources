@@ -31,12 +31,12 @@ ________________________________________________________________________________
 
 (2) Redux Cheat Sheet: https://egghead.io/react-redux-cheatsheets
 
-(3) A free Redux course: https://learnredux.com/   (status: haven't taken this one yet)
+(3) A free Redux course: https://learnredux.com/   (Status: haven't taken this one yet)
 
 ______________________________________________________________________________________________________________________________
-Ruby on Rails
+<h2>Ruby on Rails</h2>
 
 
 ______________________________________________________________________________________________________________________________
-Ruby
-(1) Practical Object-Oriented Design in Ruby by Sandi Metz
+<h2>Ruby</h2>
+(1) Practical Object-Oriented Design in Ruby by Sandi Metz  (Status: still reading it)
