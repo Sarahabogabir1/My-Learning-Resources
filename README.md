@@ -24,6 +24,8 @@ ________________________________________________________________________________
 
 (3) Good article about understanding the difference between presentational vs container patterns in React:https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 
+(4) Stateless function components and making functions look pretty:https://egghead.io/lessons/react-building-stateless-function-components-new-in-react-0-14
+
 
 ______________________________________________________________________________________________________________________________
 <h2>Redux</h2>
