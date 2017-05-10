@@ -1,4 +1,4 @@
-<h1> My Learning Resources </h1> :smile:
+<h1 style="color: blue;"> My Learning Resources </h1> :smile:
 <p>A compiled list of my favorite learning :coffee: resources.</p> 
 
 
