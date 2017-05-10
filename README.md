@@ -1,5 +1,6 @@
-<h1> My-Learning-Resources </h1>
-<p>A compiled list of my favorite learning resources.</p>
+<h1> My Learning Resources </h1> :smile:
+<p>A compiled list of my favorite learning :coffee: resources.</p> 
+
 
 
 ______________________________________________________________________________________________________________________________
@@ -34,9 +35,9 @@ ________________________________________________________________________________
 (3) A free Redux course: https://learnredux.com/   (Status: haven't taken this one yet)
 
 ______________________________________________________________________________________________________________________________
-<h2>Ruby on Rails</h2>
+<h2>Ruby on Rails</h2> :diamonds:
 
 
 ______________________________________________________________________________________________________________________________
-<h2>Ruby</h2>
+<h2>Ruby</h2> :diamonds:
 (1) Practical Object-Oriented Design in Ruby by Sandi Metz  (Status: still reading it)
